@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="TamanoVentana" Type="System.Windows.Forms.FormWindowState" Scope="User">
+      <Value Profile="(Default)">Maximized</Value>
+    </Setting>
+    <Setting Name="ColorFondo" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">30, 30, 30</Value>
+    </Setting>
+    <Setting Name="ColorContornos" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 50, 50</Value>
+    </Setting>
+    <Setting Name="ColorFuentes" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">FloralWhite</Value>
+    </Setting>
+    <Setting Name="ColorLineas" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Crimson</Value>
+    </Setting>
+    <Setting Name="LenguajeSeleccionado" Type="FastColoredTextBoxNS.Language" Scope="User">
+      <Value Profile="(Default)">Lua</Value>
+    </Setting>
+    <Setting Name="ColorIndentacion" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 50, 50</Value>
+    </Setting>
+    <Setting Name="ColorHerramientas" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">30, 30, 30</Value>
+    </Setting>
+    <Setting Name="TipoDeFuente" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Courier New, 10pt</Value>
+    </Setting>
+    <Setting Name="Idioma" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PrimerInicio" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="rutaProyecto" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Nuevo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ClicInicio" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
